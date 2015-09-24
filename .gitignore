@@ -1,0 +1,6 @@
+.idea
+
+*.log
+*.pyc
+
+daily_temp.txt
